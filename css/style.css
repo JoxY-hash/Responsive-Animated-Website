@@ -66,4 +66,5 @@ header{
     z-index: 10001;
     cursor: pointer;
     margin-left: 25px;
+    display: none;
 }
